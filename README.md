@@ -13,4 +13,4 @@ I have created several help portals from scratch. I can help you decide which te
 
 ## Tools and technologies
 
-Git, GitHub, Markdown, AsciiDoc, reStructuredText, DITA, XML, Confluence, JIRA, HTML, CSS, JavaScript, Java, REST, SQL, command line. 
+Git, GitHub, Markdown, AsciiDoc, reStructuredText, DITA, XML, Confluence, JIRA, HTML, CSS, JavaScript, Java, REST, SQL. 
