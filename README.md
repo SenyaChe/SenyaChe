@@ -4,6 +4,7 @@
 * 📈  I am passionate about data journalism, so I devote most of my free time to it.
 * 🚀  I love pet-projects. They help me grow professionally all my life.
 
+------
 
 ## Professional summary
 
@@ -13,4 +14,4 @@ I have created several help portals from scratch. I can help you decide which te
 
 ## Tools and technologies
 
-Git, GitHub, Markdown, AsciiDoc, reStructuredText, DITA, XML, Confluence, JIRA, HTML, CSS, JavaScript, Java, REST, SQL. 
+Git, GitHub, Markdown, AsciiDoc, reStructuredText, DITA, XML, Confluence, JIRA, HTML, CSS, JavaScript, Java, REST, SQL.
