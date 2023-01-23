@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Kseniya
 
-* 🦦  Data analyst for fintech company.
-* 📈  I am passionate about data journalism, so I devote most of my free time to it.
-* 🚀  I love pet-projects. They help me grow professionally all my life.
+I am a Data Engineer in a fintech company. 
+
+I find my work like in detective films, you should find insights or proofs in a big amount of data. Those insights can bring colossal money to my company. My main principle is to work very accurately and meticulous. So, if you are interested in clean data, feel free to contact me.
